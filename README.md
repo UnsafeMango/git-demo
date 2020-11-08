@@ -2,10 +2,6 @@
 
 This is a small paragraph on my readme.
 
-## Ipsum Below
+## Website Contents
 
-giberish kasjdlahdasaksdkask askdkahdow dfadfgygds overall cou ternance dasldasogibgewvsdc sckadshaksdaksd vdsllas dsfljldjl dasdjljflas sdflljdlfsa sdfjljfalsjljsdf sdaksdxczokl ppiwpifprj lfdljtgodjoj ;gdkdvnvsdv nossvml mlmds mdslmsa wwqndsnllsd sddsk;sd;lsad fallkfg;'hd' ljfdojowjiewuon fdoweid lsajlpkk jfasoenadnlajap 
-
-## Ipsum Below
-
-giberish kasjdlahdasaksdkask askdkahdow dfadfgygds overall cou ternance dasldasogibgewvsdc sckadshaksdaksd vdsllas dsfljldjl dasdjljflas sdflljdlfsa sdfjljfalsjljsdf sdaksdxczokl ppiwpifprj lfdljtgodjoj ;gdkdvnvsdv nossvml mlmds mdslmsa wwqndsnllsd sddsk;sd;lsad fallkfg;'hd' ljfdojowjiewuon fdoweid lsajlpkk jfasoenadnlajap giberish kasjdlahdasaksdkask askdkahdow dfadfgygds overall cou ternance dasldasogibgewvsdc sckadshaksdaksd vdsllas dsfljldjl dasdjljflas sdflljdlfsa sdfjljfalsjljsdf sdaksdxczokl ppiwpifprj lfdljtgodjoj ;gdkdvnvsdv nossvml mlmds mdslmsa wwqndsnllsd sddsk;sd;lsad fallkfg;'hd' ljfdojowjiewuon fdoweid lsajlpkk jfasoenadnlajap giberish kasjdlahdasaksdkask askdkahdow dfadfgygds overall cou ternance dasldasogibgewvsdc sckadshaksdaksd vdsllas dsfljldjl dasdjljflas sdflljdlfsa sdfjljfalsjljsdf sdaksdxczokl ppiwpifprj lfdljtgodjoj ;gdkdvnvsdv nossvml mlmds mdslmsa wwqndsnllsd sddsk;sd;lsad fallkfg;'hd' ljfdojowjiewuon fdoweid lsajlpkk jfasoenadnlajap 
+1. index.html
